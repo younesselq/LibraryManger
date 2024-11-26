@@ -1,0 +1,23 @@
+[
+    {
+        "id": 1,
+        "name": "Antigone",
+        "author": "Vector Hugo",
+        "quantity": 7,
+        "borrowedCount": 0
+    },
+    {
+        "id": 2,
+        "name": "Love Behind",
+        "author": "Alisse Loska",
+        "quantity": 5,
+        "borrowedCount": 0
+    },
+    {
+        "id": 3,
+        "name": "The trip with sky",
+        "author": "Jean Solivisky",
+        "quantity": 2,
+        "borrowedCount": 0
+    }
+]

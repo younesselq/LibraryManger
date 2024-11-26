@@ -1,0 +1,5 @@
+/home/youness/projects/LibraryManagement/build/CMakeFiles/LibraryManagement.dir
+/home/youness/projects/LibraryManagement/build/CMakeFiles/edit_cache.dir
+/home/youness/projects/LibraryManagement/build/CMakeFiles/rebuild_cache.dir
+/home/youness/projects/LibraryManagement/build/_deps/json-build/CMakeFiles/edit_cache.dir
+/home/youness/projects/LibraryManagement/build/_deps/json-build/CMakeFiles/rebuild_cache.dir
